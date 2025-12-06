@@ -5,10 +5,10 @@ Architect of pragmatic web assembly for the seamless orchestration of interface 
 
 # Currently Learning
 - Applied simplicity in overcomplicated web stacks
-- Contemporary antiquity (WordPress, jQuery, PHP—just like grandma used to code)
+- Contemporary antiquity (WordPress, jQuery, PHP, just like your grandpa used to code)
 - Synchronous recursion (in asynchronous contexts)
 - Experimental hydration (Next.js vs. Vanilla flavor)
 - Analytical decompression
 - Pigeonholing CSS
 
-Letting AI gently compost my remaining brain cells, but hey, it's making me money—so guess we're all vibing now.
+Letting AI gently compost my remaining brain cells, but hey, it's making me money, so guess we're all vibing now.
